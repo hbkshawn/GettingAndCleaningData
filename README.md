@@ -11,4 +11,4 @@ After downloading the data from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Extract it into the data directory under your R working directory.
 You can run R code run_analysis.R or source it. It will generate a text file named "TidyDataset.txt". This is the data set required to submit on Coursera.
-   
+
